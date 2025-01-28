@@ -5,8 +5,8 @@ import team from './team.json';
 const DashboardRoute = () => {
   const user = useUser();
   return (
-    <ContentLayout title="Members">
-      <div className="p-1 flex flex-wrap items-center justify-center">
+    <ContentLayout title="Martinians">
+      <div className="p-10 flex flex-wrap items-center justify-center">
         {team.members.map((member) => (
           <div
             className={`flex-shrink-0 m-6 relative overflow-hidden bg-orange-500 rounded-lg max-w-xs shadow-lg group`}
