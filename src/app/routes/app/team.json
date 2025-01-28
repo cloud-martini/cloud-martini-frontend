@@ -2,28 +2,23 @@
   "members": [
     {
       "name": "Kaveen",
-      "image": "https://ca.slack-edge.com/T0A84MD1A-U07JWLU4J64-e02cbf0e596a-192",
-      "color": "blue"
+      "image": "https://ca.slack-edge.com/T0A84MD1A-U07JWLU4J64-e02cbf0e596a-192"
     },
     {
       "name": "Isuru",
-      "image": "https://ca.slack-edge.com/T0A84MD1A-U07ELADA4LX-9bbb89ab076c-72",
-      "color": "orange"
+      "image": "https://ca.slack-edge.com/T0A84MD1A-U07ELADA4LX-9bbb89ab076c-72"
     },
     {
       "name": "Chamod",
-      "image": "https://ca.slack-edge.com/T0A84MD1A-U07UV10SS11-e0bfe703a789-192",
-      "color": "purple"
+      "image": "https://ca.slack-edge.com/T0A84MD1A-U07UV10SS11-e0bfe703a789-192"
     },
     {
       "name": "Seniru",
-      "image": "https://ca.slack-edge.com/T0A84MD1A-U05LA46CEFN-b270218320ff-72",
-      "color": "gray"
+      "image": "https://ca.slack-edge.com/T0A84MD1A-U05LA46CEFN-b270218320ff-72"
     },
     {
       "name": "Abdul",
-      "image": "https://ca.slack-edge.com/T0A84MD1A-U07G28TPYF5-54485e5703fe-512",
-      "color": "red"
+      "image": "https://ca.slack-edge.com/T0A84MD1A-U07G28TPYF5-54485e5703fe-512"
     }
   ]
 }

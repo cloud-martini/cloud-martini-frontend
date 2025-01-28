@@ -9,7 +9,7 @@ const DashboardRoute = () => {
       <div className="p-1 flex flex-wrap items-center justify-center">
         {team.members.map((member) => (
           <div
-            className={`flex-shrink-0 m-6 relative overflow-hidden bg-${member.color}-500 rounded-lg max-w-xs shadow-lg group`}
+            className={`flex-shrink-0 m-6 relative overflow-hidden bg-orange-500 rounded-lg max-w-xs shadow-lg group`}
           >
             <svg
               className="absolute bottom-0 left-0 mb-8 scale-150 group-hover:scale-[1.65] transition-transform"
