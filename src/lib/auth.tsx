@@ -11,7 +11,7 @@ const user = {
   firstName: 'Abdul',
   lastName: 'Hadhi',
   teamId: 'sa4hSJUgMikZ4fVfFBa1W',
-  bio: '',
+  bio: 'CM at Circles',
   createdAt: 1737874247804,
   email: 'abdul.hadhi@circles.asia',
   id: 'oJ0iGiyA3m7smVARSf3b0',

@@ -1,4 +1,4 @@
-import { Home, PanelLeft, Folder, Users, User2 } from 'lucide-react';
+import { Home, PanelLeft, Users, User2 } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { NavLink, useNavigate, useNavigation } from 'react-router';
 
@@ -29,9 +29,7 @@ const Logo = () => {
   return (
     <Link className="flex items-center text-white" to={paths.home.getHref()}>
       <img className="h-8 w-auto" src={logo} alt="Workflow" />
-      <span className="text-sm font-semibold text-white">
-        Bulletproof React
-      </span>
+      <span className="text-sm font-semibold text-white">Cloud Martini</span>
     </Link>
   );
 };
