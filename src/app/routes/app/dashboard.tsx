@@ -5,7 +5,7 @@ import team from './team.json';
 const DashboardRoute = () => {
   const user = useUser();
   return (
-    <ContentLayout title="Dashboard">
+    <ContentLayout title="Members">
       <div className="p-1 flex flex-wrap items-center justify-center">
         {team.members.map((member) => (
           <div
