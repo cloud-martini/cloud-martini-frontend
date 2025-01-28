@@ -8,12 +8,12 @@ import { AuthResponse, User } from '@/types/api';
 import { api } from './api-client';
 
 const user = {
-  firstName: 'Abdul',
-  lastName: 'Hadhi',
+  firstName: 'Cloud',
+  lastName: 'Martini',
   teamId: 'sa4hSJUgMikZ4fVfFBa1W',
   bio: 'CM at Circles',
   createdAt: 1737874247804,
-  email: 'abdul.hadhi@circles.asia',
+  email: 'cloud.martini@circles.asia',
   id: 'oJ0iGiyA3m7smVARSf3b0',
   role: 'ADMIN',
 };
