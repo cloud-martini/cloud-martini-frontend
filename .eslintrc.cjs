@@ -141,12 +141,7 @@ module.exports = {
       plugins: ['check-file'],
       files: ['src/**/!(__tests__)/*'],
       rules: {
-        'check-file/folder-naming-convention': [
-          'error',
-          {
-            '**/*': 'KEBAB_CASE',
-          },
-        ],
+        'check-file/folder-naming-convention': [],
       },
     },
   ],

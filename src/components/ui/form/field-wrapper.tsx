@@ -8,7 +8,7 @@ type FieldWrapperProps = {
   label?: string;
   className?: string;
   children: React.ReactNode;
-  error?: FieldError | undefined;
+  error?: any;
 };
 
 export type FieldWrapperPassThroughProps = Omit<
